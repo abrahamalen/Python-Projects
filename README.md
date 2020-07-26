@@ -1,3 +1,3 @@
 # Python-Codes
-A proejct in Python.
+A project in Python.
 Calculator GUI done using tkinter.
